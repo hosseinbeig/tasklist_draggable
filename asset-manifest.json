@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasklist_draggable/static/css/main.0d0b0d5c.chunk.css",
+    "main.js": "/tasklist_draggable/static/js/main.5317e724.chunk.js",
+    "main.js.map": "/tasklist_draggable/static/js/main.5317e724.chunk.js.map",
+    "runtime~main.js": "/tasklist_draggable/static/js/runtime~main.fdd051e3.js",
+    "runtime~main.js.map": "/tasklist_draggable/static/js/runtime~main.fdd051e3.js.map",
+    "static/js/2.4f233275.chunk.js": "/tasklist_draggable/static/js/2.4f233275.chunk.js",
+    "static/js/2.4f233275.chunk.js.map": "/tasklist_draggable/static/js/2.4f233275.chunk.js.map",
+    "index.html": "/tasklist_draggable/index.html",
+    "precache-manifest.c7fd47128a8e084b586c65b25d85d320.js": "/tasklist_draggable/precache-manifest.c7fd47128a8e084b586c65b25d85d320.js",
+    "service-worker.js": "/tasklist_draggable/service-worker.js",
+    "static/css/main.0d0b0d5c.chunk.css.map": "/tasklist_draggable/static/css/main.0d0b0d5c.chunk.css.map"
+  }
+}
